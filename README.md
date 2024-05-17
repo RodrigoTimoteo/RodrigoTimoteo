@@ -66,9 +66,9 @@ I'm currently trying to discover my area of expertise, so I'm open to all projec
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigotimoteo&show_icons=true&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigotimoteo&layout=compact&theme=radical)
 
 <!-- Optionally, add more GitHub-related badges and stats -->
 
